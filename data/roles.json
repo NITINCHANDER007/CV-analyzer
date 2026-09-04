@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "description": "Required skills per job role for a career-coaching AI company.",
+    "weight_scale": {
+      "1": "Nice-to-have — beneficial but not blocking",
+      "2": "Important — expected from a strong candidate",
+      "3": "Critical — must-have for the role"
+    },
+    "version": "1.0.0",
+    "last_updated": "2026-08-03"
+  },
+
+  "Data Analyst": [
+    { "skill": "SQL",                          "weight": 3 },
+    { "skill": "Python",                       "weight": 3 },
+    { "skill": "Data Visualization",           "weight": 3 },
+    { "skill": "Statistics",                   "weight": 3 },
+    { "skill": "Excel / Google Sheets",        "weight": 2 },
+    { "skill": "Tableau",                      "weight": 2 },
+    { "skill": "Power BI",                     "weight": 2 },
+    { "skill": "Data Cleaning / Wrangling",    "weight": 3 },
+    { "skill": "Business Acumen",              "weight": 2 },
+    { "skill": "A/B Testing",                  "weight": 1 }
+  ],
+
+  "ML Engineer": [
+    { "skill": "Python",                       "weight": 3 },
+    { "skill": "Machine Learning",             "weight": 3 },
+    { "skill": "Deep Learning",                "weight": 3 },
+    { "skill": "PyTorch",                      "weight": 3 },
+    { "skill": "TensorFlow",                   "weight": 2 },
+    { "skill": "Scikit-learn",                 "weight": 2 },
+    { "skill": "MLOps / Model Deployment",     "weight": 3 },
+    { "skill": "Docker",                       "weight": 2 },
+    { "skill": "SQL",                          "weight": 1 },
+    { "skill": "Cloud Platforms (AWS/GCP)",    "weight": 2 }
+  ],
+
+  "BI Developer": [
+    { "skill": "Power BI",                     "weight": 3 },
+    { "skill": "Tableau",                      "weight": 3 },
+    { "skill": "SQL",                          "weight": 3 },
+    { "skill": "DAX",                          "weight": 3 },
+    { "skill": "Data Modeling",                "weight": 3 },
+    { "skill": "ETL Pipelines",                "weight": 2 },
+    { "skill": "Python",                       "weight": 2 },
+    { "skill": "Azure Synapse / Fabric",       "weight": 2 },
+    { "skill": "Data Warehousing",             "weight": 2 },
+    { "skill": "Stakeholder Communication",    "weight": 1 }
+  ],
+
+  "Backend Developer": [
+    { "skill": "Python",                       "weight": 3 },
+    { "skill": "REST API Design",              "weight": 3 },
+    { "skill": "SQL / PostgreSQL",             "weight": 3 },
+    { "skill": "System Design",                "weight": 3 },
+    { "skill": "Docker",                       "weight": 2 },
+    { "skill": "FastAPI / Django",             "weight": 2 },
+    { "skill": "Redis / Caching",              "weight": 2 },
+    { "skill": "Cloud Platforms (AWS/GCP)",    "weight": 2 },
+    { "skill": "Git",                          "weight": 2 },
+    { "skill": "Message Queues (Kafka/RabbitMQ)", "weight": 1 }
+  ],
+
+  "AI Product Associate": [
+    { "skill": "Product Management",           "weight": 3 },
+    { "skill": "AI / ML Fundamentals",         "weight": 3 },
+    { "skill": "User Research",                "weight": 3 },
+    { "skill": "Data Analysis",               "weight": 2 },
+    { "skill": "Prompt Engineering",           "weight": 2 },
+    { "skill": "Agile / Scrum",               "weight": 2 },
+    { "skill": "Stakeholder Communication",    "weight": 3 },
+    { "skill": "SQL",                          "weight": 1 },
+    { "skill": "Roadmap Planning",             "weight": 2 },
+    { "skill": "Competitive Analysis",         "weight": 1 }
+  ]
+}

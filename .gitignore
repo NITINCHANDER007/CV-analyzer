@@ -1,0 +1,67 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# === Distribution / Packaging ===
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Testing ===
+.pytest_cache/
+.coverage
+htmlcov/
+*.coveragerc
+
+# === Type Checking ===
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# === IDEs & Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Secrets & Config ===
+.env
+*.env
+secrets.json
+config.local.*
+
+# === Data & Uploads ===
+data/uploads/
+data/cache/
+*.pdf
+*.docx
+
+# === Logs ===
+*.log
+logs/
+
+# === Streamlit ===
+.streamlit/secrets.toml

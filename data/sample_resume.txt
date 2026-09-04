@@ -1,0 +1,35 @@
+Jane Doe
+jane.doe@email.com | +1 (555) 234-5678 | linkedin.com/in/janedoe | github.com/janedoe
+
+SUMMARY
+Experienced Machine Learning Engineer with 5+ years building scalable AI systems.
+
+SKILLS
+Python, PyTorch, TensorFlow, Scikit-learn, SQL, Docker, Kubernetes, AWS, FastAPI, Git
+
+EXPERIENCE
+
+Senior ML Engineer | TechCorp AI | 2021 - Present
+- Led design and deployment of a real-time recommendation engine serving 10M+ users
+- Reduced model inference latency by 40% through ONNX optimisation and quantisation
+- Mentored a team of 4 junior engineers and conducted weekly code reviews
+
+Machine Learning Engineer | DataSoft Inc | 2019 - 2021
+- Built NLP pipelines for sentiment analysis and named-entity recognition
+- Integrated MLflow for experiment tracking; reduced model iteration cycles by 30%
+- Collaborated with product teams to ship 3 customer-facing AI features
+
+PROJECTS
+
+Resume Analyzer (2023)
+An end-to-end AI tool that parses PDF/DOCX resumes and scores them against job descriptions
+using sentence-transformers and the Gemini API. Deployed via Streamlit.
+
+Real-Time Object Detection Dashboard (2022)
+Built a YOLOv8-based object detection system with a live webcam feed, deployed in Docker,
+and visualised through a FastAPI + React dashboard.
+
+EDUCATION
+
+M.Sc. Artificial Intelligence | Stanford University | 2019
+B.Tech Computer Science | IIT Bombay | 2017
